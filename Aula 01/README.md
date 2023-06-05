@@ -1,4 +1,4 @@
-CO691 - Comunicação Técnica e Científica / Sistemas de Informação
+# CO691 - Comunicação Técnica e Científica / Sistemas de Informação
 
 Nesta disciplina estudamos um conjunto de técnicas e processos empregados para
 a pesquisa e a formulação de uma produção científica.
@@ -50,7 +50,7 @@ Novas linguagens e ferramentas
 Novas aplicações
 ```
 
-## Estado da Arte (pesquisa bibliogáfica)
+## Estado da Arte (pesquisa bibliográfica)
 
 - Deve ser ter amplitude 360 graus com estado da arte e profundidade das soluções escolhidas para esses problemas que o estado da arte também vai trazer
 
