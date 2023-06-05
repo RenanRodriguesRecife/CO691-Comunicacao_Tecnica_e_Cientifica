@@ -24,6 +24,32 @@ Científica/Metodologia Científica
 11. Springer
 12. Scopus
 
+## Opcoes de areas
+
+```
+Inteligência Artificial
+Robótica
+Internet das Coisas
+Nanotecnologia
+Biotecnologia
+Veículos Autônomos
+Realidade Virtual
+Computacao em nuvem
+Evolução dos conceitos fundamentais
+Evolução do hardware
+Evolução do software
+Evolução da comunicação
+Evolução da cultura informática
+etocomputadores (wearable)
+computadores quânticos
+computadores biológicos
+convergência digital
+Novas metáforas
+Novas metodologias
+Novas linguagens e ferramentas
+Novas aplicações
+```
+
 ## Estado da Arte (pesquisa bibliogáfica)
 
 - Deve ser ter amplitude 360 graus com estado da arte e profundidade das soluções escolhidas para esses problemas que o estado da arte também vai trazer
