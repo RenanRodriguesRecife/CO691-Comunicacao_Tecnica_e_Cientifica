@@ -28,7 +28,7 @@ Na disciplina não iramos fazer uma pesquisa real e sim fazer um trabalho que mi
 11. Springer
 12. Scopus
 
-## Opcoes de areas
+## Exemplos de areas
 
 ```
 Inteligência Artificial
@@ -52,6 +52,8 @@ Novas metáforas
 Novas metodologias
 Novas linguagens e ferramentas
 Novas aplicações
+Redes de computadores
+compudadores quanticos
 ```
 
 ## Estado da Arte (pesquisa bibliográfica)
@@ -81,14 +83,50 @@ A linguagem. Não precisa ficar perdendo tempo definido coisas que todo mundo da
 
 Na apresentação deve ser ensaida. Para caber nos 20 minutos (cornometrar e ensaiar). A apresentação deve ser fuída. É necessária preparação.
 
-Problema: O cara escolhe um tema. Computação em nuvem como exemplo. E o aluno na apresentação dá uma aula do Conteúdo da computação em nuvem. Isso é diferente do que foi proposto: Você deve trazer um problema que existe, que foi estudado e tem soluções fundamentadas em artigos.
+Problema: O cara escolhe um tema. Computação em nuvem como exemplo. E o aluno na apresentação dá uma aula do Conteúdo da computação em nuvem. Isso é diferente do que foi proposto: Você deve trazer um problema que existe, que foi estudado e tem soluções fundamentadas em artigos, trazer abordagens que existe para a solução de problemas.
+
+Problema: Definição da área. Não fassa interdiciplinaridade e acaba fugindo totalmente da nossa área. Você escolhe um problema que relaciona computação com saúde e você só foca na área de saúde.
+
+Ex: Aplicações de redes de sensores sem fio para automobile. Deve ser focadado em redes de sensores.
+
+Tem 3 formatos diferentes de referência.(MLA, ABNT (NBR6023))
+Oque nós vamos usar é o NBR6023
+
+Exemplo:
+
+Autor, título, subtítulo (se houver), edição (se houver), local, editora e data de publicação.
+
+Para obra disponível em meio eletrônico usar
+"Disponível em:" e "Acesso em:".
+
+Exemplo:
+
+Um autor
+LUCK, Heloisa. Liderança em gestão escolar. 4. ed.
+Petrópolis: Vozes, 2010.
+
+BAUMAN, Zygmunt. Globalização: as conseqüências
+humanas. Rio de Janeiro: Jorge Zahar, 1999.
 
 
+Até três autores
+PASSOS, L. M. M.; FONSECA, A.; CHAVES, M. Alegria de saber:
+matemática, segunda série, 2, primeiro grau: livro do
+professor. São Paulo: Scipione, 1995. 136 p.
 
 
+https://ctd.ifsp.edu.br/images/Logos_biblioteca/NBR_6023_Refer%C3%AAncias.pdf
 
 
+Obs: tem softwares e ferramentas que fazem a geração de citação e a geração de referência
 
+Obs: No livro do Prodanof tem o capítulo de cada caso que vai ser colocado
+
+### Definiçáo do problema de pesquisa
+
+Definir um problema não é como dar um título para um livro, ele tem que ter conhecimento ciêntífico associado. tem que ter uma guia do que é que vem dentro
+
+17:01
 
 
 
