@@ -124,9 +124,22 @@ Obs: No livro do Prodanof tem o capítulo de cada caso que vai ser colocado
 
 ### Definiçáo do problema de pesquisa
 
-Definir um problema não é como dar um título para um livro, ele tem que ter conhecimento ciêntífico associado. tem que ter uma guia do que é que vem dentro
+Definir um problema não é como dar um título para um livro, ele tem que ter conhecimento ciêntífico associado. tem que ter uma guia do que é que vem dentro.
 
-17:01
+
+Muitas pessoas tem um problema que quer trabalhar ou trabalham com um problema que outro pesquisador tem interesse
+
+Existe a conversa entre o orientando e o orientador. Existe algo antes de começar tudo que é o projeto de pesquisa.
+
+O prejeto de pesquisa é algo que ao submeter já tem os objetivos, qual é o problema, bibliografia, cronograma... quando vão fazer o tcc mais ou menos com 1 mês submetem um projeto (que deve ser aprovado pelo orientado, e por isso deve ser começado antes)
+
+### Pesquisa:
+
+Investigar algo, procurar respostas que ainda não existe para determina pergunta. (nessa disciplina não vamos fazer isso)(na disciplina vamos mimetisar o que faria em uma pesquisa autoral). Mas você vai se basear no conteúdo dos artigos: resultados, métodos, estado da arte você vai criar com tudo que você leu.
+
+### Tema
+
+Dentro da lista: Você vai pinselar um problema. Transformar um tema de pesquisa em uma pergunta. (20:25)
 
 
 
