@@ -1,4 +1,9 @@
-Inteligência artificial - acessibilidades
+Inteligência artificial - acessibilidades - deficiência
+
+Inteligência Artificial para Acessibilidade: Explorando Soluções Inovadoras para Inclusão e Autonomia
+
+
+- 
 
 
 
