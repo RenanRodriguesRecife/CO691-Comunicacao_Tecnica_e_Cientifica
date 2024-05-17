@@ -143,3 +143,10 @@ Dentro da lista: Você vai pinselar um problema. Transformar um tema de pesquisa
 
 
 
+
+------------------------------
+
+site: connectedpapers.com
+
+
+
