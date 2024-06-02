@@ -13,6 +13,45 @@ Compreender os princípios da Comunicação Técnica e Científica/Metodologia C
 
 Na disciplina não iramos fazer uma pesquisa real e sim fazer um trabalho que mimetise uma pesquisa real
 
+# Metodologia de Ensino-Aprendizagem
+
+- Na disciplina, teremos aulas presenciais no horário da aula e atividade assíncrona que serão divulgadas no dia da aula
+- Plataforma utilizada para comunicação e compartilhamento de materiais google classroom e email institucional
+
+# Metodologia de Avaliação
+
+- Atividade ao longo da disciplina
+  - Qualidade dos artefatos elaborados
+  - Participação (individual)
+  - Completude e profundidade
+  - Apresentação (individual)
+ 
+  - O aluno deve obter aprovação no quesito presença
+  - Verificação por meio da participação nas atividades propostas
+  - Participação nas aulas
+ 
+  - Carga horária de 60h
+  - Horário:
+    - Segunda, das 17h - 18:50h
+    - Quarta, das 18:50h às 20:30h
+    - +1h (5 horas semanais)
+   
+  - Avaliação: Nota única sendo 30% de atividades, e 70% de entrega final do projeto (ARTIGO + APRESENTAÇÃO)
+    
+
+## Ementa
+
+- COMUNICAÇÃO: CONCEITOS, FUNÇÕES, TIPOS E APLICAÇÕES
+- COMUNICAÇÕES ADMINISTRATIVAS, REUNIÕES E EVENTOS
+- COMUNICAÇÃO EM EQUIPES, TIPOS DE DISCUSSÃO EM GRUPO. PODER, COMUNICAÇÃO E IMAGEM NAS ORGANIZAÇÕES
+- REDAÇÃO TÉCNICA. APRESENTAÇÕES EFETIVAS
+- FUNDAMENTOS DA COMUNICAÇÃO PARA CONVERSAÇÃO E APRESENTAÇÃO EM PÚBLICO
+- TÉCNICAS E ESTRATÉGIAS DE COMUNICAÇÃO ORAL. PLANEJAMENTO E ELABORAÇÃO DE REUNIÕES E SEMINÁRIOS
+- A COMUNICAÇÃO NOS TRABALHOS DE GRUPO. SOLUÇÕES DE PROBLEMAS DE COMUNICAÇÃO EMPRESARIAL/INSTITUCIONAL
+- REDAÇÃO    EMPRESARIAL/INSTITUCIONAL    MEMORANDO
+#CURRICULUM VITAE#; MEMENTO
+- RELATÓRIO. EMPREGO DA NORMA CULTA EM TRABALHOS TÉCNICOS
+
 ## OPCOES PARA PESQUISA BIBLIOGRAFICA
 
 1. Portal de Periódicos Capes/MEC
