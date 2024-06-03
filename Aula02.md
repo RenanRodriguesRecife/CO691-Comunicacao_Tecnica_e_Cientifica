@@ -17,4 +17,12 @@
   - Competências e habilidades
   - Informações complementares
  
-  - 
+### Dados Pessoais e de Contato/Foto
+  - Nome completo;
+  - Nacionalidade, estado civil e idade
+  - Endereço, Cidade(Estado) e CEP
+  - Telefones (DDD+número), se possível colocar em ordem de "facilidade em te encontrar"
+  - E-mail pessoal
+  - Link para site pessoal, "portfócio e redes sociais
+
+
