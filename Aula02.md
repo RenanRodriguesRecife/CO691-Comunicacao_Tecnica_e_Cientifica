@@ -8,7 +8,7 @@
 
 
 ## Principais Campos:
-    - Dados Pessoais e de Contato / Foto
+  - Dados Pessoais e de Contato / Foto
   - Objetivo Profissional
   - Resumo
   - Experiência profissional
