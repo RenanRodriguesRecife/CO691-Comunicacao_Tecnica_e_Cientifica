@@ -56,3 +56,14 @@ uma nova técnica cirúrgica
 que esta questão de pesquisa ainda não foi tratada
   - Uma discussão sobre porque é importante tratar essa
 questão de pesquisa
+
+- Questões que devem ser respondidas:
+1. Sobre o que é a pesquisa?
+2. O que ainda não se sabe a respeito do tópico de pesquisa?
+3. Por que é importante esclarecer essa(s) questão(ões) em aberto?
+
+##  A questão ainda não foi tratada?
+
+- Uma boa revisão bibliográfica é necessária para apresentar tal justificativa com suficiente autoridade
+- Afirmações do tipo “não encontrei nada parecido” devem ser evitadas
+  - Sempre existe um problema que pode ser considerado o mais próximo possível
