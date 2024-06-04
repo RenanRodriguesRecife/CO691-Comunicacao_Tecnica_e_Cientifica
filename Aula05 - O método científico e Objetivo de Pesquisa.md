@@ -111,4 +111,38 @@ questão de pesquisa
 - Se hipótese comprovada, ótimo
 - Se não comprovada, pode-se derrubar algum mito
 
-- 17
+- Exemplo
+- Lacuna (problema): não se tem informações sobre qual a melhor forma de se economizar gás durante o cozimento de arroz
+- Objetivo: determinar a melhor forma de se economizar
+gás durante o cozimento de arroz
+- Hipóteses:
+  - O gasto de gás de uma boca grande de fogão é o mesmo de uma boca pequena na preparação de uma panela de arroz
+- É possível economizar gás
+- Justificativa do trabalho/pesquisa: podem haver impactos relevantes na economia dos brasileiros
+
+## Revisão Bibliográfica
+
+- Deve acontecer durante todo o trabalho
+- Para começar, livros introdutórios e surveys
+- Buscas frequentes em repositórios de artigos relevantes
+- Leitura crítica
+- Anotações e estruturação do conhecimento
+- Deve-se ser capaz de construir um mapa da área
+
+## Justificativa
+
+- Justificativa da Hipótese de pesquisa
+  - Uma boa hipótese deve possuir uma justificativa, isto é, algum indicativo encontrado na revisão bibliográfica que leve à sua formulação -> maiores chances da hipótese ser válida
+ 
+## Método de Pesquisa
+
+- Delimitado apóx objetivo estar definido e alguma revisão literária já ter sido feita
+- Passo a passo para executar o trabalho
+    - Paradigmas de se resolver problemas (dependentes de cada área),
+    - Indicação se haverá protótipos ou não,
+    - Tipo de avaliação
+    - Baselines com que se compara um método proposto.
+ 
+## Limitações da Pesquisa
+
+21
