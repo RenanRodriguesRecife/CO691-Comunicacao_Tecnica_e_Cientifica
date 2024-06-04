@@ -75,3 +75,35 @@
 
 <img src=".assets/02.JPG">
  
+## Ciência - Conceito
+
+- Ciência é o pensamento racional, objetivo, lógico e confiável com o objetivo de ser sistemático, exato e falível
+  - Deve ser verificável (submetido a experimentação para a comprovação de hipóteses)
+  - Seguir uma metodologia
+ 
+## Ciência - Natureza
+
+- Lato sensu
+  - Apenas conhecimento
+  - Especializações
+- Stricto sensu
+  - Demonstração e obtenção do conhecimento
+  - Mestrado, doutorado
+
+ ## Ciência - Componentes
+
+ As ciências possuem
+ - Finalidade
+   - Distinguir características comuns que reagem aventos
+  
+ - Função
+   - Aperfeiçoamento de relação do homem com o mundo
+  
+ - Objeto
+   - Aquilo que se pretende estudar
+  
+## Ciência - Classificação
+
+<img src=".assets/03.JPG">
+
+<img src=".assets/04.JPG">
