@@ -42,3 +42,17 @@
 - Qual o problema que será resolvido?
 - Apesar de interessante, qual é o propósito?
 - Porque a metáfora de formigueiro possivelmente levará a melhores resultados (justificativa)?
+
+- O tema principal deve ser **computação**
+- O aluno deve evitar a tentação de contribuir para uma área (de aplicação) que ele não conhece ou que conhece muito pouco
+- Dificilmente o aluno de Computação irá propor e defender
+uma nova técnica cirúrgica
+
+## Problema de Pesquisa
+
+- O problema tem três partes:
+  - Um enunciado preciso da questão ou problema que o trabalho trata
+  - Uma explicação por referência direta à bibliografia de
+que esta questão de pesquisa ainda não foi tratada
+  - Uma discussão sobre porque é importante tratar essa
+questão de pesquisa
