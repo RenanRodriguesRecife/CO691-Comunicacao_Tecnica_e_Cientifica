@@ -75,5 +75,38 @@ d) as primeiras relacionam-se geralmente com alterações na sociedade global e 
 ## Análise de Texto
 
 - A análise de um texto refere-se ao processo de conhecimento de determinada realidade e implica o exame sistemático dos elementos.
-- 
 
+## Objetivos
+
+- Aprender a ler, a ver, a escolher o mais importante dentro do texto;
+- Reconhecer a organização e estrutura de uma obra ou texto;
+- Interpretar o texto, familiarizando-se com ideias, estilos, vocabulários;
+- Chegar a níveis mais profundos de compreensão;
+- Reconhecer o valor do material, separando o importante do secundário ou acessório;
+- Desenvolver a capacidade de distinguir fatos, hipóteses e problemas;
+- Encontrar as ideias principais ou diretrizes e as secundárias;
+- Perceber como as ideias se relacionam;
+- Identificar as conclusões e as base que as sustentam
+
+## Procedimentos
+
+- Para se ter um sentido completo, proceder à sua leitura integral com o objetivo de obter uma visão do todo;
+- Reler o texto, assinalando ou anotando palavras e expressões desconhecidas;
+- Esclarecidas as dúvidas, fazer nova leitura, visando à compreensão do todo;
+- Tornar a ler, procurando a ideia principal ou palavra-chave, que tanto pode estar explícita quanto implícita no texto; às vezes, encontra-se confundida com aspectos secundários ou acessórios;
+- Localizar acontecimentos e ideias, comparando-os entre si;
+- Agrupá-los, pelo menos por uma semelhança importante, e organizá-los em ordem hierárquica de importância;
+- Interpretar as ideias e/ou fenômenos, tentando descobrir conclusões a que o autor chegou;
+- Proceder à crítica do material como um todo e principalmente das conclusões.
+
+## Partes da Análise de Texto
+
+- Analise dos elementos: visa a compreensão de todos os elementos básicos e essenciais de um texto;
+- Analise das relações: visa encontrar as principais relações e estabelecer conexões com os diferentes elementos essenciais do texto;
+- Analise da estrutura: visa verificar as partes de um todo, procurando evidenciar as relações existentes entre elas.
+
+Referências Bibliográficas 
+
+MARCONI, Marina de Andrade; LAKATOS, Eva
+Maria. Fundamentos de metodologia científica. 5. ed.-
+São Paulo: Atlas, 2003.
