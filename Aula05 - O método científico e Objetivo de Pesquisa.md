@@ -67,3 +67,21 @@ questão de pesquisa
 - Uma boa revisão bibliográfica é necessária para apresentar tal justificativa com suficiente autoridade
 - Afirmações do tipo “não encontrei nada parecido” devem ser evitadas
   - Sempre existe um problema que pode ser considerado o mais próximo possível
+
+## Escolhendo o Objetivo de Pesquisa
+
+- Tarefa difícil
+- Não confundir com o TEMA
+  - Ex: “Tema: Influência da batata inglesa na língua portuguesa” -> o que se quer provar?
+  - Ex: Tema: “algoritmos evolutivos” e o objetivo é desenvolver uma nova técnica de mutação que supera a técnica de mutação mais aceita na literatura
+- Comporta uma hipótese de trabalho
+  - Demonstrar que a hipótese x é verdadeira
+ 
+## Objetivos inadequado
+
+- "O objetivo deste trabalho é aumentar os meus conhecimento na área de estudo"
+- "Fazer um estudo sobre..."
+- "Produzir uma dissertação sobre..."
+- Etc
+
+  
