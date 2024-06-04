@@ -145,4 +145,12 @@ gás durante o cozimento de arroz
  
 ## Limitações da Pesquisa
 
-21
+- É possível que um trabalho de pesquisa se inicie com um objetivo demasiadamente amplo, possivelmente
+inalcançável no tempo disponível
+- Situações assim, requerem cortes no objetivo ao longo do projeto
+- Exemplo
+  - Ao invés de se demonstrar que uma hipótese é sempre verdadeira, pode-se optar por demonstrar que ela é verdadeira apenas em determinadas condições -> muito comum
+
+## Resultados Esperados
+
+22
