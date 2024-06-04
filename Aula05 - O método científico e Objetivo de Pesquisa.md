@@ -85,3 +85,30 @@ questão de pesquisa
 - Etc
 
 <img src=".assets/05.JPG">
+
+- "PROPOR"
+- Todo trabalho propõe algo. A questão é O QUE?
+  - Se o autor fizer a proposta, então o objetivo estará atingido?
+
+## Objetivos
+
+- O objetivo deve ser verificável ao final do trabalho -> hipótese válida ou inválida
+- Verbos adequados: demonstrar, provar, melhorar
+- Verbos inadequados: propor, estudar, apresentar, desenvolver -> usados apenas em contextos necessariamente originais
+- Orientação: ao final, mostrar uma contribuição original ao conhecimento
+
+## O Caminho para a Escolha de um Objetivo de Pesquisa
+
+1 - Escolher um tema de pesquisa
+2 - Realizar a revisão bibliográfica
+3 - Definir o objetivo de pesquisa
+
+## Hipótese de Pesquisa
+
+- Afirmação da qual não se sabe a princípio se é verdadeira ou falsa
+- É uma suposição que se faz a respeito do problema; uma explicação provisória
+- Função do trabalho de pesquisa provar sua veracidade ou falsidade
+- Se hipótese comprovada, ótimo
+- Se não comprovada, pode-se derrubar algum mito
+
+- 17
