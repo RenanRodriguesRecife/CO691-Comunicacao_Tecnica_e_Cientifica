@@ -107,3 +107,18 @@
 <img src=".assets/03.JPG">
 
 <img src=".assets/04.JPG">
+
+### Exercício
+
+• Assistir - • Vídeo 1 https://youtu.be/j3t3blMch6Y
+• Vídeo 2 https://www.youtube.com/watch?v=OJkWGX9QVh8
+• # 2- Explique com suas palavras o que é ciência e conhecimento científico.
+
+## Referências Bibliográficas
+
+• MARCONI, Marina de Andrade; LAKATOS, Eva
+Maria. Fundamentos de metodologia científica. 5. ed.-
+São Paulo: Atlas, 2003.
+• Slides do professor George H. G. Fonseca Universidade
+Federal de Ouro Preto/ Conhecimento Científico e
+Ciência
