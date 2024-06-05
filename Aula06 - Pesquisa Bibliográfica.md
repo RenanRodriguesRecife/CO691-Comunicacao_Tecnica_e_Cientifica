@@ -25,3 +25,4 @@ técnicas semelhantes na mesma área ou em áreas equivalentes
 
 “**Ninguém fez** algo parecido com o que eu estou fazendo, **mas** muitas coisas já foram feitas pelos seres humanos ao longo da sua história. **Então**, eu poderia classificar as coisas que já foram feitas em termos de **grau de semelhança** com aquilo que eu estou fazendo. As coisas mais parecidas com o meu trabalho serão minha referência, mesmo que a semelhança seja pequena”.
 
+06
