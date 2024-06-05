@@ -19,7 +19,18 @@ técnicas semelhantes na mesma área ou em áreas equivalentes
 - “Mas não encontrei nada parecido com o que eu estou fazendo”
   - Algo sempre deve ser apresentado como referência
   - Essa referência poderá ser mais semelhante ou menos semelhante à abordagem usada de um ponto de vista relativo
- 
+
+ - O que deve ser **Necessidade Lido**
+ - O pesquisador iniciante em uma determinada área deverá começar sua revisão bibliográfica por **outras revisões**
+ - Na sequência, alguns **trabalhos clássicos** devem ser buscados
+   - Trabalhos clássicos são aqueles que já receberam ao longo do tempo o maior número de citações
+  - Continuando a pesquisa, deverão ser buscadas as **fontes mais recentes** sobre o assunto da pesquisa
+
+  - Leitura Crítica
+  - A leitura de trabalhos científicos não deve ser encarada apenas como um aprendizado
+  - O pesquisador deve exercer, antes de tudo, o espírito crítico, para questionar a validade de todas as informações registradas nos textos que estão sendo lidos.
+
+  - 
 
 - Melhor pensar assim:
 
@@ -51,3 +62,8 @@ Tipos de Fontes Bibliográficas
 - Tipos de Fontes Bibliográficas
 - Os artigos em **eventos** terão informações mais atuais, mas poderão variar bastante em termos de qualidade
 - Os artigos em **periódicos** terão sido arduamente revisados e lapidados ao longo de iterações entre autores e revisores, mas quando publicados talvez já não sejam mais tão atuais quanto os artigos em eventos
+
+- O que deve ser **Necessariamente Lido**
+- O pesquisador iniciante em uma determinada área deverá começar sua revisão bibliográfica por **outras revisões**
+- Na sequência, alguns **trabalhos clássicos** devem ser buscados.
+  - Trabalhos clássicos são a
