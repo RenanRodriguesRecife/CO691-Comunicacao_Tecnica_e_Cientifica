@@ -153,4 +153,34 @@ inalcançável no tempo disponível
 
 ## Resultados Esperados
 
-22
+Resultados esperados da pesquisa
+- Os resultados esperados são diferentes do objetivo
+- O objetivo é o que é perseguido pelo pesquisador -> ao final, pode ter sido alcançado ou não
+- Os resultados esperados possivelmente ocorrerão após a conclusão do trabalho -> expectativas -> “o que possivelmente mudaria no mundo se eu atingisse os objetivos da minha tese?”
+
+Exemplo
+- Objetivo: definir um método de cálculo de esforço em desenvolvimento de software mais preciso
+- Resultados esperados: adoção do novo método pela indústria, e melhor desempenho das empresas produtoras de software
+
+## A disciplina de metodologia apresentada como se fosse um trabalho de pesquisa
+
+- Tema
+- Objetivos
+- Bibliografia
+- Justificativa
+- Método
+  - Hipóteses
+- Limitações da Pesquisa
+- Resultados Esperados
+
+## O Método Científico
+
+- Não há **ciência** sem o emprego do método científico
+
+- Método científico é "um conjunto de procedimentos por intermédio dos quais a) se propõe os problemas científicos e b) colocam-se à prova as hipóteses científicas" (Bunge, 1974a:55).
+
+- “O método científico é um conjunto de regras básicas para desenvolver uma experiência a fim de produzir novo conhecimento, bem como corrigir e integrar conhecimentos pré-existentes. Na maioria das disciplinas científicas consiste em juntar evidências observáveis, empíricas (ou seja, baseadas apenas na experiência) e mensuráveis e as analisar com o uso da lógica.” (Wikipédia - Método)
+
+## O Método Científico
+
+<img src=".assets/
