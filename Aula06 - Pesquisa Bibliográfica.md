@@ -66,4 +66,22 @@ Tipos de Fontes Bibliográficas
 - O que deve ser **Necessariamente Lido**
 - O pesquisador iniciante em uma determinada área deverá começar sua revisão bibliográfica por **outras revisões**
 - Na sequência, alguns **trabalhos clássicos** devem ser buscados.
-  - Trabalhos clássicos são a
+  - Trabalhos clássicos são aqueles que já receberam ao longo do tempo o maior número de citações
+- Continuando a pesquisa, deverão ser buscadas as **fontes mais recentes** sobre o assunto da pesquisa
+
+
+- Leitura Crítica
+- A leitura dos trabalhos científicos não deve ser encarada apenas como um aprendizado
+- O pesquisador deve exercer, antes de tudo, o espírito crítico, para questionar a validade de todas as informações registradas nos textos que estão sendo lidos.
+
+- Perguntas geradoras de ideias de pesquisa
+  - De onde o autor parece tirar suas ideias?
+  - O que foi obtido como resultado deste de trabalho?
+  - Como este trabalho se relaciona com outros na mesma área?
+  - Qual seria um próximo passo razoável para dar continuidade a essa pesquisa?
+  - Que ideias de áreas próximas poderiam ser aproveitadas neste trabalho?
+ 
+- Perguntas geradoras de ideias de pesquisa -> avaliar a qualidade do trabalho
+- Se não for possível responder: De onde o autor parece tirar suas ideias?
+  - Pode indicar trabalho fraco
+    (14)
