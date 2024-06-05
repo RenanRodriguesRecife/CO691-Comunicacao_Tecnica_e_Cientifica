@@ -184,3 +184,41 @@ Exemplo
 ## O Método Científico
 
 <img src=".assets/06.JPG">
+
+Deve ser estabelecido depois que o objetivo tiver sido definido
+
+O método deve então indicar, dependendo do tipo de trabalho:
+
+- se protótipos serão desenvolvidos
+- se modelos teóricos serão construídos
+- quais experimentos eventualmente serão realizados
+- como os dados serão organizados e comparados
+
+## Pesquisa Experimental e Não-Experimental
+
+- A pesquisa experimental implica em que o pesquisador sistematicamente provocará alterações no ambiente a ser pesquisado de forma a observar se cada intervenção produz os resultados esperados
+- A pesquisa não experimental consiste no estudo de fenômenos sem a intervenção sistemática do pesquisador
+
+## Empirismo
+
+- Segundo Kerlinger (1980), “empírico significa guiado pela evidência obtida em pesquisa científica sistemática e controlada”
+- O empirismo é importante para a ciência porque é uma maneira sensata de olhar o mundo.
+
+## Qual o seu caso?
+
+- Tema
+- Lacuna/problema
+- Hipóteses
+- Objetivo
+- Justificativa/motivação
+
+### Atividade #4
+
+Qual o seu caso?
+  - Forme um grupo de 4 pessoas
+  - Defina um tema
+
+### Referências Bibliográficas
+
+- MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 5. ed.- São Paulo: Atlas, 2003.
+- Slides da Profa. Elaine Faria - UFU - http://www.facom.ufu.br/~elaine/disc
