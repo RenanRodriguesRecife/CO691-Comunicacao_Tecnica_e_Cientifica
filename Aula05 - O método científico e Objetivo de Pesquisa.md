@@ -183,4 +183,4 @@ Exemplo
 
 ## O Método Científico
 
-<img src=".assets/
+<img src=".assets/06.JPG">
