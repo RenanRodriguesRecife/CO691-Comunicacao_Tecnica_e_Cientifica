@@ -129,3 +129,7 @@ Exposição à Pesquisa
   - ACM TKDD - Transactions on Knowledge Discovery from Data 
 -...
 
+
+https://portal.cin.ufpe.br/pos-graduacao/stricto-sensu/programa-academico/documentos/#5989-c12
+
+
