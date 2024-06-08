@@ -84,4 +84,48 @@ Tipos de Fontes Bibliográficas
 - Perguntas geradoras de ideias de pesquisa -> avaliar a qualidade do trabalho
 - Se não for possível responder: De onde o autor parece tirar suas ideias?
   - Pode indicar trabalho fraco
-    (14)
+  - As ideias devem vir: de referências bibliográficas, da observação de fenômenos, de hipóteses criadas pelo autor que serão posteriormente comprovadas
+  - Exemplo: "O interesse pela internet tem crescido muito ao longo dos últimos anos".
+    - Problemas
+      - Como se define e se made "interesse"?
+      - Como se conceitua "crescer muito"?
+      - Que período de tempo compreende os "ultimos anos"?
+ 
+- Perguntas geradoras de ideias de pesquisa -> avaliar a qualidade do trabalho
+- Se não for possível responder: O que foi obtido como resultado deste trabalho?
+  - Se não for possível resumir em poucas palavras a contribuição real do trabalho -> texto confuso e mal organizado
+    
+- Perguntasa geradoras de ideias de pesquisa -> avaliar a qualidade do trabalho
+- Se não for possível responder: Como este trabalho se relaciona com outros na mesma área?
+  - Caberá ao leitor tentar estabelecer as relações entre o trabalho lido e outras obras.
+ 
+- Perguntasa geradoras de ideias de pesquisa -> avaliar a qualidade do trabalho
+- Qual seria um próximo passo razoável para dar continuidade a essa pesquisa?
+  - A resposta poderá ser um excelente objetivo de pesquisa
+- Que ideias de áreas próximas poderiam ser aproveitadas neste trabalho?
+  - Conceitos correlatos de outras áreas de pesquisa, que possivelmente não eram conhecidos dos autores do trabalho podem ser considerados para aprimorar o trabalho
+    - Com justificativa plausível - objetivo de pesquisa
+   
+Exposição à Pesquisa
+- Projetos (ideias) de pesquisa
+  - Discussão semanal com o orientador
+  - Regularmente
+    - Ler os resumos dos artigos nos principais periodicos e eventos na sua área de pesquisa
+    - Ler pelo menos um ou dois artigos de maior relevância
+  - Seminários e defesas
+  - Conversas com o orientador
+ 
+- Você já tem uma lista dos principais periódicos e eventos na sua àrea de pesquisa?
+
+- Exposição à Pesquisa
+- Banco de Dados - Conferências
+  - SIGMOD: ACM SIGMOD Conf on Management of Data
+  - PODS: ACM SIGMOD Conf on Principles of DB Systems
+  - ...
+ 
+- Banco de Dados - Periódicos
+  - VLDB Journal
+  - ACM TODS - Transactions on Database Systems
+  - ACM TKDD - Transactions on Knowledge Discovery from Data 
+-...
+
