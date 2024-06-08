@@ -134,3 +134,66 @@ https://portal.cin.ufpe.br/pos-graduacao/stricto-sensu/programa-academico/docume
 
 <img src=".assets/07.JPG">
 
+Como Sistematizar a Pesquisa Bibliográfica
+- Listar os periódicos e eventos relevantes para o tema de pesquisa
+- Obter a lista de todos os artigos publicados nos últimos, cinco (ou mais) anos
+- Selecionar desta lista aqueles títulos que tenham relação com o tema de pesquisa
+- Ler o abstract destes artigos e classificá-los como relevância “alta” , “média” ou “baixa”
+
+
+Como **Sistematizar** a Pesquisa Bibliográfica
+- Ler os artigos de alta relevância e fazer fichas de leitura anotando os principais conceitos e ideias aprendidos
+- Dependendo do caso, ler também os artigos de relevância média e baixa, mas iniciando sempre pelos de alta relevância
+- Buscar a bibliografia dos artigos lidos ou outros artigos (posteriores) que os citem com bibliografia
+
+- Depois do último passo, o aluno poderá decidir:
+ - Já tem material suficiente para elaborar uma ideia de pesquisa
+consistente OU
+ - Precisa expandir a pesquisa examinando artigos mais antigos ou periódicos menos relevantes
+- Decisão tomada em conjunto com o orientador
+
+
+Definir o objetivo
+- Duas abordagens:
+  - Pesquisa por profundidade e
+  - Pesquisa por abrangência
+- Definir palavras chave para cada contexto:
+  - Assunto
+  - Autores
+  - Veículos
+  - Nomes de técnicas
+  - Algoritmos e Ferramentas
+  - Etc.
+ 
+
+- Na pesquisa por abrangência
+  - Use todas as palavras chaves
+    - Reúna os artigos encontrados
+    - Analise cada um deles
+    - Faça listas de novas palavras chaves
+- Na pesquisa em profundidade
+  - Escolha uma palavra chave de cada vez
+    - Reúna os artigos encontrados
+    - Analise cada um deles
+    - Faça listas de novas palavras chaves
+   
+- A pesquisa bibliográfica pode ter até VÁRIOS objetivos
+- 1. Identificar conceitos, técnicas e ferramentas que servem de base para o desenvolvimento do trabalho - **identificar conceitos básicos**
+- 2. Identificar técnicas, algoritmos, softwares e autores com trabalhos semelhantes ou precursores ao que está sendo realizado - **identificar parceiros**
+- 3. Identificar necessidades, situações e resultados do mundo real, possivelmente fora do mundo da informática, que justifiquem o trabalho - **identificar motivação**
+
+- Outras leituras obrigatórias
+- ACM e IEEE
+- os Bancos de TCCs, dissertações, teses
+
+- https://repositorio.ufpe.br/handle/123456789/50
+
+<img src=".assets/08.JPG">
+
+- Exercício - (Grupo do Projeto)
+- 1- Fazer uma busca por 3 conferências e 3 periódicos de uma área de seu interesse
+- 2- Encontrar um artigo sobre o tema e comentar sobre o artigo (Breve Resumo)
+
+Referências Bibliográficas
+- MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Fundamentos de metodologia científica**. 5. ed.-São Paulo: Atlas, 2003
+- Slides da Profa. Elaine Faria - UFU - http://www.facom.ufu.br/~elaine/disc
