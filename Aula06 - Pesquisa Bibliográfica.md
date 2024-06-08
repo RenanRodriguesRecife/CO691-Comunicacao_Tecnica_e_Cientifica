@@ -132,4 +132,5 @@ Exposição à Pesquisa
 
 https://portal.cin.ufpe.br/pos-graduacao/stricto-sensu/programa-academico/documentos/#5989-c12
 
+<img src=".assets/07.JPG">
 
