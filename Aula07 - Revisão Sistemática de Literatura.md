@@ -25,3 +25,21 @@ Caio Souza
 - **Outcomes O = Resultados, Desfecho**
   - Medindo o que funcionou melhor
  
+### Fazendo a Pergunta
+
+- Formular a questão de pesquisa usando o PICO
+  para:
+- Identificar elementos de pesquisa relacionados ao tema
+- Selecione palavras-chaves que representem esses elementos
+- Recuperar artigos de pesquisa relevantes quando as palavras-chave PICO são usadas
+
+### Questões de Pesquisa - Estrutura PICO
+
+- **População (Population):** um papel de engenharia de software específico (testador), categoria (novatos, experientes), área de aplicação (sistemas de controle), grupo (pequenas empresas)
+- **Intervenção (Intervention):** metodologia / ferramenta / tecnologia / procedimento de engenharia de software (ferramenta para testa de software)
+- **Comparação (Comparison):** é a metodologia / ferramenta / tecnologia / procedimento de engenharia de software com a qual a intervenção está sendo comparada
+- **Desfecho (Outcomes):** Os resultados de importância para os profissionais, tais como maior confiabilidade, redução dos custos de produção e redução do tempo de colocação no mercado.
+ 
+### Questão de Pesquisa - PICO
+
+7
