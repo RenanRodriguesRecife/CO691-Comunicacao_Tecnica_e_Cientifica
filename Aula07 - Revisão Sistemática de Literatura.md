@@ -47,3 +47,11 @@ Caio Souza
 - Intervenção: metodologias ágeis;
 - Comparação: outras metodologias de desenvolvimento de software;
 - Desfecho: influencia no processo de engenharia de requisitos.
+
+- QP1 - Quais os impactos positivos e negativos da adoção de métodos ágeis na engenharia de requisitos?
+- QP2 - Quais os métodos de pesquisa utilizados para avaliar o impacto de metodologias ágeis na engenharia de requisitos?
+- QP3 - Que abordagens de engenharia de requisitos melhor se adequam à metodologia ágeis? Quais as não se adequam?
+- QP4 - Que abordagens de desenvolvimento de software que são usadas na fase de engenharia de requisitos?
+
+### String de Busca
+
