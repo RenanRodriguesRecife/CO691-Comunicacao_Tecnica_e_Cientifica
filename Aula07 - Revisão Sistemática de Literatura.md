@@ -42,4 +42,8 @@ Caio Souza
  
 ### Questão de Pesquisa - PICO
 
-7
+- QPP: Sob que condições a utilização de **metodologias ágeis** influencia no processo de **engenharia de requisitos** em **projetos de pequeno e médio** porte?
+- População: projetos de pequeno e médio porte;
+- Intervenção: metodologias ágeis;
+- Comparação: outras metodologias de desenvolvimento de software;
+- Desfecho: influencia no processo de engenharia de requisitos.
