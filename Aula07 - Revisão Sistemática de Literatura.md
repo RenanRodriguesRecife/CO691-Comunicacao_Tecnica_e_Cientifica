@@ -55,3 +55,38 @@ Caio Souza
 
 ### String de Busca
 
+<img src=".assets/11.JPG">
+
+Questão de Pesquisa
+
+- QPP: Qual é **o estado atual** da investigação sebre **técnicas de privacidade e segurança** na **Engenharia de Requisitos**?
+- População: Engenharia de Requisitos;
+- Intervenção: técnicas de privacidade e segurança;
+- Comparação: outras técnicas
+- Desfecho: estado atual da investigação
+
+Questão de Pesquisa
+
+- QPP: Qual é o estado atual da investigação sobre técnicas de privacidade e segurança na Engenharia de Requisitos?
+  - QP1: Quais tópicos de pesquisa são investigados sobre técnicas de privacidade e segurança na engenharia de requisitos?
+  - QP2: Quais métodos de pesquisa são utilizados sobre técnicas de privacidade e segurança na engenharia de requisitos?
+  - QP3: Quais os tipos de trabalho?
+  - QP4: Qual o problema de pesquisa que está sendo resolvido?
+  - QP5: Quais as tendências, em se tratando de trabalhos futuros?
+ 
+String de Busca
+
+Questão de Pesquisa
+
+- QPP: Qual o conjunto de requisitos da gamificação para softwares educacionais que contemplem tipos de personalidade?
+- População: softwares educacionais;
+- Intervenção: conjunto de requisitos da gamificação;
+- Comparação: outros requisitos que não são gamificados;
+- Desfecho: contemplem os tipos de personalidade dos alunos.
+
+Questão de Pesquisa
+
+- QPP: Qual o conjunto de requisitos da gamificação para softwares educacionais que contemplem os tipos de personalidade?
+  - QP1: Quais são os tipos de softwares, as modalidades de ensino e os objetivos educacionais propostos com a gamificação?
+  - QP2: Quais são as principais características, em termos de requisitos, necessárias à criação de softwares gamificados voltados à educação?
+  - QP3: Existe alguma abordagem que considere os tipos de personalidade dos alunos em softwares gamificados voltados à educação?
