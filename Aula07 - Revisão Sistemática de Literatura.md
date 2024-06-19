@@ -76,6 +76,8 @@ Questão de Pesquisa
  
 String de Busca
 
+<img src=".assets/12.JPG">
+
 Questão de Pesquisa
 
 - QPP: Qual o conjunto de requisitos da gamificação para softwares educacionais que contemplem tipos de personalidade?
@@ -91,5 +93,8 @@ Questão de Pesquisa
   - QP2: Quais são as principais características, em termos de requisitos, necessárias à criação de softwares gamificados voltados à educação?
   - QP3: Existe alguma abordagem que considere os tipos de personalidade dos alunos em softwares gamificados voltados à educação?
  
-<img src=".assets/12.JPG">
+ 
+String de Busca
+
+<img src=".assets/13.JPG">
 
