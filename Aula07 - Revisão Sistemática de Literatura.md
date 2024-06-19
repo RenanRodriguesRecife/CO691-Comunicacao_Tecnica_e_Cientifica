@@ -126,3 +126,16 @@ String de Busca
 
 <img src=".assets/18.JPG">
 
+## Pergunta de Pesquisa 
+
+- Qual é o estado atual da investigação sobre **privacidade** e **segurança** na **Engenharia de Requisitos**?
+
+<img src=".assets/19.JPG">
+
+<img src=".assets/20.JPG">
+
+<img src=".assets/21.JPG">
+
+<img src=".assets/22.JPG">
+
+<img src=".assets/23.JPG">
