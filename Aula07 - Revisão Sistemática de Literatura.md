@@ -90,3 +90,6 @@ Questão de Pesquisa
   - QP1: Quais são os tipos de softwares, as modalidades de ensino e os objetivos educacionais propostos com a gamificação?
   - QP2: Quais são as principais características, em termos de requisitos, necessárias à criação de softwares gamificados voltados à educação?
   - QP3: Existe alguma abordagem que considere os tipos de personalidade dos alunos em softwares gamificados voltados à educação?
+ 
+<img src=".assets/12.JPG">
+
