@@ -1,4 +1,4 @@
-# Questão de Pesquisa e String de Busca
+# 01 - Questão de Pesquisa e String de Busca
 Caio Souza
 
 ## Revisão sistemática de literatura
@@ -98,7 +98,7 @@ String de Busca
 
 <img src=".assets/13.JPG">
 
-# String e Engenhos de Busca
+# 02 - String e Engenhos de Busca
 
 <img src=".assets/14.JPG">
 
@@ -139,3 +139,11 @@ String de Busca
 <img src=".assets/22.JPG">
 
 <img src=".assets/23.JPG">
+
+# 03 - Definindo os critérios de inclusão e exclusão e o período da busca
+
+<img src=".assets/24.JPG">
+
+## Critérios de inclusão e exclusão
+
+- 
