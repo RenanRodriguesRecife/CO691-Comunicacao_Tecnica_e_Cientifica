@@ -142,7 +142,7 @@ String de Busca
 
 # 03 - Definindo os critérios de inclusão e exclusão e o período da busca
 
-<img src=".assets/24.JPG">
+<img src=".assets/24.jpg">
 
 ## Critérios de inclusão e exclusão
 
