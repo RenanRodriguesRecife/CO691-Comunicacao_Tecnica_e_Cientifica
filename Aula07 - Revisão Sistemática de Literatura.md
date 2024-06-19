@@ -146,4 +146,16 @@ String de Busca
 
 ## Critérios de inclusão e exclusão
 
-- 
+- Faz parte do processo de seleção
+- Utilizado para definir mais precisamente os trabalhos selecionados, deve-se estabelcer os limites de sua extensão
+- Pode tomar como base:
+  - Língua
+  - Revistas
+  - Autores
+  - Configurações
+  - Participantes ou sujeitos
+  - Projeto de pesquisa
+  - Método de amostragem
+  - Data da publicação
+ 
+<img src=".assets/25.jpg">
