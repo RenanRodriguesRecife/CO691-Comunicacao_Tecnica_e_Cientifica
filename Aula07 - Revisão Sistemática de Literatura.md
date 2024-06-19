@@ -100,3 +100,20 @@ String de Busca
 
 # String e Engenhos de Busca
 
+<img src=".assets/14.JPG">
+
+## Busca Manual
+
+- Quais são as principais características, em termos de requisitos, necessárias à criação de softwares gamificados voltados à educação?
+- Simpósio Brasileiro de Informática na Educação (SBIE)
+  - http://www.br-ie.org/pub/index.php/sbie/issue/archive
+- Revista Novas Tecnologias na Educação (RENOTE)
+  - http://seer.ufrgs.br/renote
+ 
+## Pergunta de pesquisa - Busca Automática
+
+- Sob que codição a utilização de **metodologias ágeis** influencia no processo de **engenharia de requisitos** em **projetos de pequeno e médio** porte?
+
+<img src=".assets/15.JPG">
+
+<img src=".assets/16.JPG">
