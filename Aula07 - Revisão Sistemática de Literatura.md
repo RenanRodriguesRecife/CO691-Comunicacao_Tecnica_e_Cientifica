@@ -117,3 +117,12 @@ String de Busca
 <img src=".assets/15.JPG">
 
 <img src=".assets/16.JPG">
+
+## Pergunta de Pesquisa
+
+- Quais **critérios** de **priorização** são discutidos na literatura de priorização de **requisitos**?
+
+<img src=".assets/17.JPG">
+
+<img src=".assets/18.JPG">
+
