@@ -159,3 +159,10 @@ String de Busca
   - Data da publicação
  
 <img src=".assets/25.JPG">
+
+## Questão de Pesquisa
+
+- **QPP: Sob que condições a utilização de metodologias ágeis influencia no processo de engenharia de requisitos em projetos de pequeno e médio porte?
+  - **QP1** - Quais os impactos positivos e negativos da adoção de métodos ágeis na engenharia de requisitos?
+  - **QP2** - Quais os métodos de pesquisa utilizados para avaliar o impacto de metodologias ágeis na engenharia de requisitos?
+  -  
