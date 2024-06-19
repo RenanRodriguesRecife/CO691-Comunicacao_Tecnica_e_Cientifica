@@ -158,4 +158,4 @@ String de Busca
   - Método de amostragem
   - Data da publicação
  
-<img src=".assets/25.jpg">
+<img src=".assets/25.JPG">
