@@ -225,3 +225,13 @@ String de Busca
   Referências
 
 - Santos, Ronnie E S , Fabio Q B da S ilva, and Cleyton VC de Magalhães. "Benefits and limitations of organizations: job rotation in software a systematic literature review." Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering. AC M , 2016.
+
+
+# 04 - Lendo o trabalho completo
+
+<img src=".assets/26.JPG">
+
+## Processo de Seleção
+
+<img src=".assets/27.JPG">
+
