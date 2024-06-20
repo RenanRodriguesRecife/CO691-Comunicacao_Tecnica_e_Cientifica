@@ -244,3 +244,7 @@ String de Busca
 - A seleção e extração dos dados é realizada por meio de uma planilha e contém os seguintes campos:
   - **Etapa 1, 2, e 3 (Seleção): [] Identificador, [] Data da Leitura, [] Fonte, [] Ano, [] Afiliações, [] Lista de Autores, [] Título, [] Palavras Chaves, [] Resposta dos critérios de inclusão e exclusão, [] Campo para aceitar ou rejeitar o artigo...
   - Etapa 3 (Extração): **Respostas das questões de pesquisa.**
+
+
+# 05 Sintese de Dados
+
