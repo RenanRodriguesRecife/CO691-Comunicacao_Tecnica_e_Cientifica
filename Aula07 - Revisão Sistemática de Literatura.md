@@ -235,3 +235,12 @@ String de Busca
 
 <img src=".assets/27.JPG">
 
+## Planilha de seleção extração de dados
+
+- A seleção e extração de dados deve ser projetada para coletar todas as informações necessárias para abordar as questões da revisão (KITCHENHAM; CHARTERS, 2007).
+
+## Planilha de seleção extração de dados
+
+- A seleção e extração dos dados é realizada por meio de uma planilha e contém os seguintes campos:
+  - **Etapa 1, 2, e 3 (Seleção): [] Identificador, [] Data da Leitura, [] Fonte, [] Ano, [] Afiliações, [] Lista de Autores, [] Título, [] Palavras Chaves, [] Resposta dos critérios de inclusão e exclusão, [] Campo para aceitar ou rejeitar o artigo...
+  - Etapa 3 (Extração): **Respostas das questões de pesquisa.**
