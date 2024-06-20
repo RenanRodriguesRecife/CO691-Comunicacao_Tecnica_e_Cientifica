@@ -165,4 +165,63 @@ String de Busca
 - **QPP: Sob que condições a utilização de metodologias ágeis influencia no processo de engenharia de requisitos em projetos de pequeno e médio porte?
   - **QP1** - Quais os impactos positivos e negativos da adoção de métodos ágeis na engenharia de requisitos?
   - **QP2** - Quais os métodos de pesquisa utilizados para avaliar o impacto de metodologias ágeis na engenharia de requisitos?
-  -  
+  -  **QP3** - Que abordagens de engenharia de requisitos melhor se adequam à metodologias ágeis? Quais as que não se adequam?
+  -  **QP4** - Que abordagens de desenvolvimento de software que são usadas na fase de engenharia de requisitos?
+ 
+## Critérios de inclusão e exclusão
+- Critérios de Inclusão:
+  - Estudos revisados por pares;
+  - Estudos Acessíveis
+  - Estudos Empíricos
+- Critérios de Exclusão:
+  - Estudos duplicados (apenas uma cópia de cada estudo deve ser incluída)
+  - Estudos incompletos (shirt papers, apresentações, dissertações, teses, estudos, secundários, terciários e meta-análise)
+  - Estudos que não apresentam como foco, desenvolvimento ágil de software
+  - Estudos não focados em projetos de médio e pequeno porte
+  - Estudos que não sejam escritos em inglês espanhol ou português
+ 
+## Questão de Pesquisa
+
+- **QPP: Qual o conjunto de requisitos da gamificação para softwares educacionais que contemplem os tipos de personalidade?**
+  - QP1: Quais são os tipos de softwares, as modalidades de ensino e os objetivos educacionais propostos com a gamificação?
+  - QP2: Quais são as principais características, em termos de requisitos, necessárias à criação de softwares gamificados voltados à educação?
+  - QP3: Existe alguma abordagem que considere os tipos de personalidade dos alunos em softwares gamificados voltados à educação?
+
+## Critéiros de inclusão e exclusão
+
+- Critérios de Inclusão:
+  - Estudos Primários
+  - Estudos revisados por pares
+  - Estudos que analisam características de softwares educacionais gamificados
+  - Estudos acessíveis
+- Critérios de Exclusão:
+  - Estudos que não abordam a educação como foco do software gamificado
+  - Estudos duplicados (apenas uma cópia de cada estudo foi incluída)
+  - Estudos incompletos, secundários e terciários
+  - Estudos que tratam a gamificação na educação como trabalhos futuros
+ 
+## Questão de Pesquisa
+
+- Q P P. O que é atualmente conhecido sobre os benefícios e limitações do uso de job rotation em organizações de software?
+  - QP1.1. Qual é a evolução do número de estudos ao longo dos anos?
+  - QP1.2. Que métodos de pesquisa têm sido utilizados para investigar de job rotation na engenharia de software?
+  - QP1.3. Quais são os tipos de de job rotation aplicados em um contexto de engenharia de software?
+  - QP1.4. Quais foram os objetivos para fazer uso de job rotation o nas organizações investigadas?
+  - QP1.5. Quais foram os benefícios e limitações da aplicação de de job rotation nos estudos selecionados?
+ 
+## Critérios de inclusão e exclusão
+
+- Estudos selecionados apresentando conceitos, teorias, diretrizes, discussões, lições aprendidas e relatos de experiência sobre a prática de job rotation no campo da engenharia de software (critérios de inclusão)
+- Documentos excluídos que caíram em qualquer dos oito critérios de exclusão:
+  - (1) Escrito em outras línguas que não o inglês;
+  - (2) Não acessível na Web;
+  - (3) Documentos enviados para avaliação, palestras, relatórios de seminários, livros, teses e dissertações;
+  - (4) Documentos incompletos, rascunhos, slides de apresentações e resumos;
+  - (5) Abordar outras áreas além da informática (por exemplo, negócios e gestão, ciências sociais, saúde e outros);
+  - (6) Estudos que citam ou referenciam apenas artigos sobre job rotation, mas não abordam job rotation em seus achados;
+  - (7) Abordar tópicos de ciência da computação claramente não relacionados à engenharia de software (por exemplo, sistemas de banco de dados, interação homem-computador, redes de computadores, inteligência artificial, etc.);
+  - (8) Trabalhos que não apresentem qualquer tipo de achados ou discussões sobre a prática de job rotation no contexto da engenharia de software.
+ 
+  Referências
+
+- Santos, Ronnie E S , Fabio Q B da S ilva, and Cleyton VC de Magalhães. "Benefits and limitations of organizations: job rotation in software a systematic literature review." Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering. AC M , 2016.
