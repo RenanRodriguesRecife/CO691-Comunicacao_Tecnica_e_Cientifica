@@ -275,3 +275,24 @@ String de Busca
 <img src=".assets/37.jpg">
 
 <img src=".assets/38.jpg">
+
+## Questão de Pesquisa
+
+- **QPP: Sob que condições a utilização de metodologias ágeis influencia no processo de engenharia de requisitos em projetos de pequenos e médio porte?**
+  - **QP1** - Quais os impactos positivos e negativos da adoção de métodos ágeis na engenharia de requisitos?
+  - **QP2** - Que abordagens de engenharia de requisitos melhor se adequam à metodologias ágeis? Quais as que não se adequam?
+ 
+## Síntese de dados - Respondendo às questões de pesquisa
+
+- A primeira pergunta questionava a respeito dos **impactos positivos e negativos da adoção de métodos ágeis na engenharia de requisitos**. Muitos pontos positivos e negativos foram mencionados em contextos diferentes.
+- Portanto, no âmbito geral os pontos positivos desses métodos são:
+  - Adaptação a rápidas mudanças nos requisitos, tendo ciclos de desenvolvimento curtos e interativos;
+  - Comunicação aberta com os clientes, sendo bem sucedidos para requisitos voláteis e tendo baixo custo no desenvolvimento de software
+- Por exemplo, o trabalho de SCOPUS73 relatou em seus resultados, baseados em uma etnografia, que as metodologias ágeis são úteis quando existe a necessidade de rápida adaptação as mudanças de requisitos e para incorporar a ajuda do cliente no processo.
+
+<img src=".assets/39.jpg">
+
+## Referências
+- Kitchenham, Staffs et al. Guidelines for performing systematic literature reviews in software engineering. In: Technical report, Ver. 2.3 E B S E Technical Report. E B S E. sn, 2007.
+- D E -LA -TORRE -U G ARTE -G U AN IL O, Mônica Cecilia; TAK AH AS HI, Renata Ferreira;
+BERTOLOZZI, Maria Rita. Revisão sistemática: noções gerais. Rev. esc. enferm. U S P, São Paulo, v. 45, n. 5, p. 1260-1266, O ct. 2011 . Available from <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0080- 62342011000500033&lng=en&nrm=iso>. access on 29 Oct. 2017. http://dx.doi.org/10.1590/S0080-62342011000500033.
