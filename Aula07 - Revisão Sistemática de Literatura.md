@@ -248,3 +248,30 @@ String de Busca
 
 # 05 Sintese de Dados
 
+<img src=".assets/28.jpg">
+
+<img src=".assets/29.jpg">
+
+## Sintese de dados
+
+- Resultados da seleção (etapas da revisão).
+- Visão geral dos trabalhos (ano, nacionalidades, tipo de trabalho, áreas e etc);
+- Resposta às questões de pesquisa.
+
+<img src=".assets/30.jpg">
+
+<img src=".assets/31.jpg">
+
+<img src=".assets/32.jpg">
+
+<img src=".assets/33.jpg">
+
+<img src=".assets/34.jpg">
+
+<img src=".assets/35.jpg">
+
+<img src=".assets/36.jpg">
+
+<img src=".assets/37.jpg">
+
+<img src=".assets/38.jpg">
