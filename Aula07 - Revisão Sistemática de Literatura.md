@@ -229,11 +229,11 @@ String de Busca
 
 # 04 - Lendo o trabalho completo
 
-<img src=".assets/26.JPG">
+<img src=".assets/26.jpg">
 
 ## Processo de Seleção
 
-<img src=".assets/27.JPG">
+<img src=".assets/27.jpg">
 
 ## Planilha de seleção extração de dados
 
