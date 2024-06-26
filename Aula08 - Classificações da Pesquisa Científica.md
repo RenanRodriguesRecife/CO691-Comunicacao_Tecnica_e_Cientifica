@@ -95,7 +95,7 @@
 
 # Quadro Metodológico
 
-<img src=".assets/">
+<img src=".assets/40.jpg">
 
 ## Atividade
 
