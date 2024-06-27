@@ -264,4 +264,11 @@ no contexto de ->Contexto<-
 
 - **Obtenha consentimento:**
   - Os participantes concordam com os objetivos da pesquisa
-    - 
+    - Mas não deve está ciente das hipóteses!
+   
+  - Explique como usaremos os resultados do experimento
+  - A participação não deveria ser obrigatória
+- **Confidencialidade:** não divulgue dados sensíveis
+  - E.g. remuneração ou dados médicos dos participantes
+ 
+  - Antes dos (37)
