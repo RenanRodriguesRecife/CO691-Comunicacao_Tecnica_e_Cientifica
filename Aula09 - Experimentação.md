@@ -82,17 +82,50 @@ Exemplo: avaliar a produtividade (**variável dependente**) com base no método 
 
 # Modelo de definição de meta
 
-Analisar <Objeto(s) de estudo>
+Analisar ->Objeto(s) de estudo<-
 
-para o propósito de <Propósito>
+para o propósito de ->Propósito<-
 
-com relação ao seu <Foco na qualidade>
+com relação ao seu ->Foco na qualidade<-
 
-do ponto de vista da <Perspectiva>
+do ponto de vista da ->Perspectiva<-
 
-no contexto de <Contexto>
+no contexto de ->Contexto<-
 
 # Modelo de definição de meta - II
 
-(16)
+- **Objeto de estudo: Entidade a estudar
+  - Produtos, processos, teorias, ferramentas
+ 
+- **Objetivo: intenção do experimento**
+  - Compare duas técnicas, caracterize um processo de aprendizagem
+ 
+- **Foco na qualidade: Efeito no estudo**
+  - Eficácia, custo, eficiência, precisão...
+ 
+- **Perspectiva:** de que ponto de vista deve interpretar os resultados?
+  - Pesquisador, gerente de projetos, desenvolvedor...
+ 
+- Modelo de definição de meta - III
+- **Contexto:** ambiente onde o estudo é realizado
+  - **Sujeitos:** experiência, habilidades, específicas, etc.
+  - **Objetos:** complexidade, domínio de aplicação, etc.
+ 
+# Exemplo
+- **Objetivo:** Analizar o uso de diagrama UML estereotipados com o **objetivo** de avaliar sua utilizade na **compreensão** de aplicações Web **para diferentes categorias de usuários**
+    - **Foco na qualidade:** alto entendimento e facilidade de manutenção
+    - **Perspectiva:** perquisador, gerentes de projetos
+    - **Contexto:**
+      - Duas aplicações Web
+      - Aluno de graduação e pós-graduação, pesquisadores.
+     
+# Planejamento de Experimentos
+
+# Planejamento
+
+- A **defeinição** descreve **por que** realizamos um experimento
+- O **planejamento** determina **como** o experimento será executado
+- Indispensável para qualquer tarefa de engenharia.
+
+- 
 
