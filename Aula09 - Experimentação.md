@@ -271,4 +271,105 @@ no contexto de ->Contexto<-
 - **Confidencialidade:** não divulgue dados sensíveis
   - E.g. remuneração ou dados médicos dos participantes
  
-  - Antes dos (37)
+  - Antes dos experimento, é aconselhável fazer uma breve apresentação para:
+    - Explicar o experiemnto e seus objetivos
+      - **Tenha cuidado para introduzir qualquer viés**
+      - **Cuidado com a adivinhação de hipóteses**
+    - Apresente os objetos
+    - Apresente a instrumentação (formulário, ferramenta, etc.)
+      - Indique onde os sujeitos podem obter formulários/ferramentas
+      - Onde eles podem obter documentação...
+      - Explique como usar ferramentas, se necessário
+    - Descreva detalhadamente as etapas do experimento
+
+# Instrumentação
+
+- Influencia fortemente o resultado do experimento
+- Tipos de instrumentação:
+  - **Objetos: especificação, código, documentação...**
+  - **Diretrizes:**
+    - Descrição do processo experimental
+    - Checklist
+    - Um treinamento adequado
+  - **Instrumentos de medição:**
+    - Formulários em papel, entrevistas, equipamentos de medição
+    - **Os resultados não devem depender do instrumento de medição**
+
+# Preparação: instrumentação
+
+- Antes do experimento a instrumentação deve estar pronta
+  - Objetos, diretrizes, ferramentas, instrumentos de medição
+    - Coloque os dados em um formato homogêneo
+      -> mais fácil de analisar
+    - Formulário anônimo caso não seja necessário identificar o participante
+  - Se entrevistas forem planejadas, prepare as perguntas antes do experimento
+ 
+# Execução
+
+- Diferentes maneiras de executar um experimento
+- **Online**
+    - Você pode realmente monitorar o experimento
+
+- **Offline**
+    - Execute a tarefa remotamente e aguarde os resultados
+ 
+# Coleta dos Dados
+
+- **Manual:** Manual: analisar formulários, artefatos produzidos pelo sujeitos
+  - Formulários vs Entrevistas
+    - Os forumários não exigem que você participe ativamente da execução do experimento
+    - No entanto, as entrevistas podem revelar coisas que a forma não poderia revelar
+   
+- **Automática:** formulários baseados na web, ferramentas de monitoramento
+  - e.g. execução de scripts para coletar dos dados
+ 
+
+# Questionário Pós-Experimento
+
+- Usado para entender:
+  - Se algo deu errado com a clareza dos objetivos, material, tempo disponível, tarefas
+  - Quanto tempo (aproximadamente) os sujeitos gastaram em artefatos específicos
+- **Informação qualitativa**
+  - **Usado para explicar resultados quantitativos e não para substituí-los!**
+ 
+# Validação dos Dados
+
+- Assim que o experimento for concluído, precisamos fazer uma verificação de consistência nos dados coletados
+  - Os tratamentos foram aplicados corretamente?
+  - Os sujeitos compreenderam os formulários fornecidos?
+  - Os sujeitos se comportaram de acordo com o esperado?
+  - Remova os sujeitos que
+    - Não participaram do experimento
+    - Exibiram um comportamento fora do normal
+- Tente dar um olhada rápida nos dados o mais rápido possível
+  - Pelo menos usando estatísticas descritivas
+ 
+# Replicação
+
+- **"Não levamos muito a sério nem mesmo as nossas próprias observações, nem as aceitamos como observações científicas, até que as tenhamos repetido e testado"(Popper, 1960)**
+- A replicação é essencial na experimentação
+  - Você deve documentar seus experimentos para que outros possam
+    - Repita o experimento com sujeitos diferentes
+    - Replique sua análise estatística
+   
+# Vantagens das replicações
+
+- **Corrigir problemas ocorridos nos primeiros experimentos**
+  - Treinamento não adequado
+  - Tarefas com problemas de implementação
+ 
+- **Considere uma ampla variedade de sujeitos**
+  - Sujeitos diferentes em replicação diferentes
+ 
+- **Aumente o poder estatístico**
+  - Possibilidade de analisar os resultados como um todo ou fazer meta-análise
+ 
+# Conclusões
+
+- A definições e o planejamento do experimento são cruciais
+  - Definição errada -> você está estudados algo irrelevante
+  - O design influencia o tipo de análise que você pode fazer em seus dados
+- A operação experimental precisa ser realizada com cuidado
+- Você pode perder meses de trabalho de uma só vez
+- Analise cuidadosamente os riscos à validade
+  - Não tenha medo de fazer isso... não existe estude perfeito
