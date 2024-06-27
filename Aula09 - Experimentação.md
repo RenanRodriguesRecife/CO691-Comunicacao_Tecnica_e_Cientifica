@@ -127,5 +127,114 @@ no contexto de ->Contexto<-
 - O **planejamento** determina **como** o experimento será executado
 - Indispensável para qualquer tarefa de engenharia.
 
-- 
+# Seleção de Contexto
+
+- Conjunto de **objetos** e **sujeitos** envolvidos no experimento
+- 4 dimensões
+  - Off-line vs on-line
+  - Problemas didáticos vs Problemas reais
+  - Específico vs geral
+
+# Seleção de Objetos
+
+- Em muitos projetos experimentais você pode precisar de mais de um objeto
+- É bom variar entre domínios
+- Mas a sua complexidade não deve ser muito diferente
+- Os objetos devem ser simples o suficientes para permitir a execução da tarefa em um período de tempo limitado
+  - Mas se possível evite exemplos fictícios
+- Às vezes você tem que prepará-los
+  - E.g injetando falhas etc.
+  - **Tenha cuidado para evitar distorcer o experimento**
+  - **Verifique se há erros nos objetos, uma das principais causas de falhas em experimentos!**
+ 
+# Seleção de Sujeitos
+
+- Influencia a possibilidade de generalizar nossos resultados
+- Precisa representar a população
+- **Amostragem probabilística**
+  - Amostragem aleatória simples, amostragem sistemática, amostragem aleatória estratificada
+- **Amostragem por conveniência**
+  - Basta selecionar os sujeitos disponíveis
+  - ..ou aqueles mais apropriados
+- **Muitas vezes a amostragem por conveniência é a única maneira de proceder**
+
+# IMPORTANTE!
+
+- **Um experiemento não prova nenhuma teoria**
+
+- A lógica da descoberta científica
+  - Qualquer afirmação feita num campo científico é verdadeira até que alguém possa contradizê-la
+ 
+# Projeto de experimento
+
+- É o conjunto de teste de tratamento
+  - Combinações de tratamentos, sujeitos e objetos.
+- Define como os testes são organizados e executados
+- Influencia as análises estatísticas que podem fazer
+- Com base nas hipóteses formuladas
+- Influencia a capacidade de realizar replicações
+  - E combinar resultados
+ 
+# Princípios básicos - I
+
+- O design experimental é baseado em três princípios
+  1. Randomização
+  2. Bloqueio
+  3. Balanceamento
+ 
+- Randomização: a observação deve ser feita sobre variáveis aleatórias
+  - Influencia a alocação de objetos, assuntos e a ordem em que os teste são realizados
+  - Útil para mitigar o efeito de confusão
+    - E.g influência de objetos, efeitos de aprendizagem
+
+# Princípios básicos - II
+
+- **Bloqueio:** às vezes alguns fatores influenciam os nossos resultados, mas que querem mitigar o seus efeitos
+  - Podemos dividir uma população em blocos com o mesmo nível de fator
+  - e.g. experiência dos sujeitos
+ 
+- **Equilíbrio:** devo tentar ter o mesmo (ou semelhante) número de sujeitos para cada tratamento
+  - Simplifica a análise estatística
+  - Não é estritamente necessário e às vezes não conseguimos alcençar um equilíbrio perfeito
+ 
+# Projeto de experimento conclusões
+
+- Escolha essencial ao fazer um experimento
+- As conclusões que podemos tirar dependem do tipo de design que escolhemos
+- Restrições em métodos estatísticos
+- Se possível, use um design simples
+- Maximize o uso dos sujeitos disponíveis
+  - **Muitas vezes não há muitos sujeitos disponíveis**
+ 
+# Avaliação e Validação
+
+# Avaliação e Validação
+
+- Questões cruciais na análise dos resultados do experimento
+  - Até que ponto nossos resultados são válidos?
+  - Eles devem ser pelo menos válidos para a população de interesse
+  - Então, se pudéssemos generalizar...
+ 
+- Riscos à validade
+  1. Validade da coclusão (C)
+  2. Validade interna (I)
+  3. Validade de construção (S)
+  4. Validade externa (E)
+ 
+# Riscos à validação
+
+- **Validação de conclusão (C):** diz respeito à relação entre tratmento e resultado
+    - Deve haver uma relação estatisticamente significativa
+
+- **Validação interna (I):** diz respeito a fatores que podem afetar nossos resultados
+   - Não controlamos nem medimos
+  
+- **Validação de construção (S):** relação entre teoria e observação
+    - O tratamento deve refletir a construção da causa
+    - O resultado reflete a construção do efeito
+ 
+- **Validação externa (E):** dis respeito à generalização dos resultados
+    - Se existe uma relação causal entre construção e efeito, essa relação poderia ser generalizada?
+
+
 
