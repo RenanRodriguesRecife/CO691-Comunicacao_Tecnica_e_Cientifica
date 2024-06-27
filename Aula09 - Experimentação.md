@@ -236,5 +236,32 @@ no contexto de ->Contexto<-
 - **Validação externa (E):** dis respeito à generalização dos resultados
     - Se existe uma relação causal entre construção e efeito, essa relação poderia ser generalizada?
 
+# Priorize risco à validação
 
+- Muitos riscos são conflitantes
+  - Quanto reduzo um risco, a outra pode aumentar
+  - Um grande problema de otimização
+- Experimentos com alunos
+  - Amostras maiores, maior homogeneidade
+    -> boa validação da conclusão
+  - Baixa validação externa
+- Uso de diferentes medidas para garantir que o tratamento e o resultado representem bem a construção
+  - Boa validação de construção
+  - Problemas na validação da conclusão
+    -> erros devido a multiplas medidas
 
+# Execução
+
+# Execução
+
+- Depois de projetar um experimento, precisamos executá-lo
+- Estamos em contato com os sujeitos pela primeira vez
+
+- **Embora o design e o plano sejam perfeitos, tudo depende da operação**
+  - **Se algo der errado em algumas horas, podemos perder meses de trabalho...**
+ 
+# Preparação
+
+- **Obtenha consentimento:**
+  - Os participantes concordam com os objetivos da pesquisa
+    - 
