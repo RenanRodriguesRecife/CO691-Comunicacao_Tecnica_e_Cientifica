@@ -98,3 +98,4 @@ As evidências para um estudo de caso podem vir de fonte distintas:
 
 # Princípios da coleta de dados
 
+(14)
