@@ -98,4 +98,78 @@ As evidências para um estudo de caso podem vir de fonte distintas:
 
 # Princípios da coleta de dados
 
-(14)
+- A utilização de várias fontes de evidências
+
+- A criação de um banco de dados para estudo de caso;
+
+- A manutenção de um encadeamento de evidências.
+
+# Fontes de evidências: Documentação
+
+São memorandos e e-mails, agendas, atas de reuniões, relatórios escritos, documentos administrativos, documentação de software...
+
+- **Pontos Fortes:**
+  - Estável - pode ser revisada inúmeras vezes
+  - Exata - contém nomes, referências e detalhes exatos de um evento
+  - Ampla cobertura - longo espaço de tempo, muitos eventos e muitos ambientes distintos.
+
+- **Ponto Fracos:**
+  - Acesso - pode ser deliberadamente negado
+  - Seletividade tendenciosa, se a coleta não estiver completa
+  - Relato de visões tendenciosas - reflete ideias preconcebidas do autor
+ 
+# Fontes de evidências: Registros em arquivos
+
+São mapas, tabelas, diários, dados oriundos de registros de serviços, logs.
+
+- **Pontos Fortes:**
+  - Preciso e quantitativos.
+  - [Os mesmos mencionados para documentação].
+
+- **Pontos Fracos:**
+  - [Os mesmos mencionados para documentação].
+ 
+# Fontes de evidências: Entrevistas
+
+- **Pontos Fortes:**
+  - Direcionadas - enfocam diretamente o tópico do estudo de caso;
+  - Perceptivas - fornecem inferências causais percebidas.
+- **Pontos Fracos:**
+  - Respostas tendenciosas
+  - Ocorrem imprecisões devido a memória fraca do entrevistado
+  - Reflexibilidade - o entrevistado dá ao entrevistador o que ele quer ouvir
+ 
+# Fontes de evidências: Artefados
+
+- **Pontos Fortes:**
+  - Capacidade de percepção em relação a operações técnicas.
+  - Reprodutibilidade - permitem que outros perquisadores repliquem os experimentos ou sistemas.
+  - Facilidade de Verificação - com artefatos disponíveis, outros podem facilmente verificar os resultados
+ 
+- **Pontos Fracos:**
+  - Disponibilidade
+  - Seletividade
+
+# Analisando Evidências do Estudo de Caso
+
+A análise de dados consiste em examinar, categorizar, classificar em tabelas e recombinar as evidências tendo em vista proposições iniciais de um estudo.
+
+# Principais métodos de análise:
+
+- Adequação ao padrão - Compara um padrão
+  fundamentalmente empírico com outro de base.
+    - Se os padrões coincidirem, os resultados podem ajudar o estudo de caso a reforçar sua validade interna.
+ 
+- Construção da explanação - O objetivo é analisar os dados do estudo de caso construindo uma explicação sobre o caso.
+
+# Principais métodos de análise:
+
+- Análise de séries temporais - Conduzir, uma análise de séries temporais.
+
+- Modelos lógicos - Uma combinação dos métodos de adequação ao padrão e de análise de séries temporais estabelecendo um encadeamento complexo de eventos.
+
+# Atividade
+
+- Atividade em Grupo
+- Procure um artigo da área do seu projeto que tenha utilizado o método do tipo Estudo de Caso
+- Apresente uma breve descrição da metodologia desse artigo.
