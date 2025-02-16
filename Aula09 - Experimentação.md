@@ -51,11 +51,11 @@
 - **Variáveis independentes:** variáveis que controlamos
 Exemplo: avaliar a produtividade (**variável dependente**) com base no método de desenvolvimento, habilidades, ferramentas (**variáveis independentes**)
 
-# Terminology - II
+# Terminologia - II
 
 - O experimento estuda como as mudanças que ocorrem na **variáveis independentes** (**fatores**) influenciam uma **variável dependente**
 
-# Terminology - III
+# Terminologia - III
 
 - Um tratamento é aplicado a uma combinação de **sujeitos** e **objetos**
 - Um experimento é um conjunto de **teste** (ou **ensaios**) definidos como combinação de tratamentos, sujeitos e objetos.
