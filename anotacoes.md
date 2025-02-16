@@ -1,3 +1,7 @@
+
+- A siglas devem ter uma descrição anterior se não é penalizado. A descrição deve aparecer para primeira vez que a sigla aparece, depois ela pode ser usada livremente.
+
+---------------------------------------------------------
 (Seminários)
 - só pode aparecer referência se aparecer citação (ou você coloca as referências no final do slide)
 
