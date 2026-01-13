@@ -181,7 +181,11 @@ Investigar algo, procurar respostas que ainda não existe para determina pergunt
 Dentro da lista: Você vai pinselar um problema. Transformar um tema de pesquisa em uma pergunta. (20:25)
 
 
+### Erros Comuns 
 
+- Fincar muito na área Social (deve ser voltado a área tecnica da computação) (remover soluções inovadoras de inclusão e autonomia, ex: Aprendizagem de máquina para inclusão e assecibilidade)
+- Formatação Incorreta
+- 
 
 ------------------------------
 
