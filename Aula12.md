@@ -19,6 +19,27 @@ Se não houver compartilhamento de sentido, não houve comunicação efetiva
   - O contexto é a situação social, cultural e/ou organizacional que envolve a comunicação
   - O receptor interpreta a mensagem e fornece feedback, permitindo confirmar a compreensão
 
+#### Funções da Comunicação
+- Informar: transmitir dados e fatos
+- Orientar/Persuadir/Motivar: influenciar comportamentos e atitudes
+- Entreter: gerar diversão e engajamento
+- Educar: promover aprendizagem
+- Expressar emoções: transmitir sentimentos e sensações
+- Integrar: fortalecer vínculos organizacionais entre pessoas e equipes
+
+#### Tipos de Comunicação
+
+- Verbal: pode ser oral ou escrita e é amplamente utilizada em ambientes corporativos
+- Não verbal: envolve postura, expressões e gestos, complementando ou contradizendo a mensagem verbal
+- Visual: utiliza gráficos, diagramas e imagens para reforçar ou sintetizar informações
+- Formal: estruturada e oficial
+- Informal: espontânea e casual
+- Síncrona: ocorre em tempo real
+- Assíncrona: ocorre em tempos diferentes
+
+#### Comunicação Formal vs Informal
+
+<img src="./"/>
 
 ### Comunicação Organizacional e Técnica
 
