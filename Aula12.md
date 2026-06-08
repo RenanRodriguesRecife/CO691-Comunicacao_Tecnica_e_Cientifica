@@ -39,7 +39,7 @@ Se não houver compartilhamento de sentido, não houve comunicação efetiva
 
 #### Comunicação Formal vs Informal
 
-<img src="./"/>
+<img src=".assets/img01.jpg"/>
 
 ### Comunicação Organizacional e Técnica
 
