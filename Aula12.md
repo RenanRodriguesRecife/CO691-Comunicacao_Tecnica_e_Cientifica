@@ -41,6 +41,16 @@ Se não houver compartilhamento de sentido, não houve comunicação efetiva
 
 <img src=".assets/img01.jpg"/>
 
+#### Barreiras à Comunicação Eficaz
+
+- Filtragem: Manipulação da informação pelo emissor para que seja vista mais favoravelmente pelo receptor
+
+- Percepção Seletiva: O receptor vê e escuta seletivamente com base em suas necessidades e experiências
+
+- Emoções: O estado emocional do receptor no momento da comunicação influencia a interpretação
+
+- Linguagem e Jargão: Palavras têm significados diferentes para pessoas diferentes (ex. técnicos vs. leigos)
+
 ### Comunicação Organizacional e Técnica
 
 
