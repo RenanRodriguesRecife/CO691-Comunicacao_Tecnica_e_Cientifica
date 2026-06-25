@@ -72,4 +72,62 @@ Texto incompleto
 
 Resposta: Porque nem todo artigo publicado possui boa qualidade científica. A avaliação garante a confiabilidade dos estudos incluídos e reduz o risco de vieses, aumentando a credibilidade dos resultados da revisão.
 
+**15 - Quais partes de um artigo devem ser lidas na Etapa 1 do processo de seleção?**
+
+Resposta: Na Etapa 1 do processo de seleção, deve-se realizar a leitura do Título, do Resumo e das palavras-chave do artigo.
+
+Contexto: O processo de seleção dos estudos primários é dividido em etapas que afunilam os resultados. A Etapa 1 atua como um primeiro filtro rápido, onde o pesquisador avalia apenas as informações mais superficiais do documento (título, resumo e palavras-chave) levando em consideração os critérios de inclusão e exclusão definidos no protocolo.
+
+**16 - Em qual etapa do processo de seleção o pesquisador deve realizar a leitura do artigo inteiro?**
+
+Resposta: A leitura do artigo inteiro é realizada na Etapa 3 do processo de seleção.
+
+Contexto: Após filtrar os artigos pelo título/resumo (Etapa 1) e pela introdução/conclusão (Etapa 2), a Etapa 3 exige o aprofundamento. É neste momento de leitura completa que os trabalhos irrelevantes para as questões investigadas devem ser definitivamente excluídos, sempre considerando os critérios de inclusão e exclusão. É também na Etapa 3 que ocorre a extração das respostas para as questões de pesquisa.
+
+**17 - Quais são as abordagens metodológicas para a realização da Síntese de Dados em uma revisão?**
+
+Resposta: A síntese das evidências científicas pode seguir uma abordagem Quantitativa (que envolve análise estatística), uma abordagem Qualitativa, ou ambas em formato de revisão integrativa. A síntese qualitativa descreve, interpreta e compara os resultados dos estudos por meio de textos e tabelas, identificando padrões e lacunas. A síntese quantitativa (meta-análise) utiliza cálculos estatísticos para combinar resultados de vários estudos e gerar um efeito global numérico, sendo usada quando os estudos são homogêneos.
+
+Contexto: A síntese de dados faz parte tanto do desenvolvimento do protocolo (Estágio 1) quanto da execução da revisão (Estágio 2). Ela organiza e compila tudo o que foi extraído dos estudos primários para apresentar as conclusões da pesquisa de forma estruturada, dependendo do tipo de dado levantado.
+
+**18 - Além de responder às questões de pesquisa, quais outras informações devem constar na Síntese de Dados?**
+
+Resposta: A Síntese de Dados também deve apresentar os resultados da seleção (as etapas da revisão) e uma visão geral dos trabalhos.
+
+Contexto: Para apresentar o estado da arte de forma completa, a síntese precisa demonstrar os números de exclusão e seleção em cada base de dados ao longo das etapas. Além disso, a visão geral ajuda a mapear o cenário da pesquisa, tabulando informações como o ano de publicação, as nacionalidades das publicações, as áreas e o tipo de publicação (como conferência ou revista) dos estudos incluídos.
+
+
+**19 - Qual é a função do checklist PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses)?**
+
+Resposta: O PRISMA é um conjunto de diretrizes que visa melhorar a transparência e a qualidade do relato de revisões sistemáticas e meta-análises, oferecendo uma lista de itens essenciais que devem constar no manuscrito final.
+
+**20 - Em que medida o viés de publicação pode afetar uma revisão sistemática?**
+
+Resposta: O viés de publicação ocorre porque estudos com resultados positivos têm maior chance de serem publicados. Isso pode distorcer os achados da revisão, levando a conclusões superestimadas. Para mitigar isso, pode-se incluir literatura cinzenta (teses, dissertações, relatórios).
+
+**21 - Cite ferramentas utilizadas para avaliar o risco de viés em estudos de uma RSL e como os estudos podem ser classificados em relação ao viés.**
+
+Resposta: 
+Ferramentas comuns incluem:
+  Cochrane Risk of Bias
+  Newcastle-Ottawa Scale
+
+Os estudos podem ser classificados como:
+  Baixo risco de viés
+  Alto risco de viés
+  Risco incerto
+
+
+
+**22 - Qual é a principal diferença metodológica entre uma revisão narrativa e uma revisão sistemática?**
+
+Resposta: A revisão sistemática segue um protocolo rígido, explícito e reprodutível, com critérios de busca e seleção de artigos definidos a priori para minimizar vieses. A revisão narrativa é mais subjetiva, não exige a descrição do método de busca e a seleção dos textos fica a critério do autor.
+
+
+## Perguntas sobre Pesquisa Quantitativa
+
+
+
+
+
 
