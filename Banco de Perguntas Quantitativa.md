@@ -78,3 +78,5 @@ Resposta: Métodos quantitativos utilizam dados numéricos e estatísticos, enqu
 **15 - Para que servem os métodos quantitativos?**
 
 Resposta: Servem para testar hipóteses, medir variáveis e identificar relações entre dados, permitindo conclusões baseadas em evidências numéricas.
+
+
