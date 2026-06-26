@@ -50,12 +50,31 @@ Resposta: A amostragem probabilística é mais adequada quando o objetivo é gen
 Resposta: 
 
 Vantagens:
-  Resultados objetivos e mensuráveis
-  Facilidade de comparação entre dados
-  Possibilidade de generalização
+  - Resultados objetivos e mensuráveis
+  - Facilidade de comparação entre dados
+  - Possibilidade de generalização
 
 Limitações:
-  Pouca profundidade na compreensão de contextos
-  Dificuldade em captar percepções subjetivas
-  Dependência da qualidade dos instrumentos de coleta
+  - Pouca profundidade na compreensão de contextos
+  - Dificuldade em captar percepções subjetivas
+  - Dependência da qualidade dos instrumentos de coleta
 
+**11 - O que são métodos quantitativos de pesquisa?**
+
+Resposta: São métodos que utilizam dados numéricos e estatísticos para analisar fenômenos, permitindo medir, comparar e identificar padrões de forma objetiva.
+
+**12 - Qual é a principal característica dos métodos quantitativos?**
+
+Resposta: A principal característica é o uso de números e análises estatísticas, buscando resultados objetivos e generalizáveis.
+
+**13 - Cite um exemplo de método quantitativo.**
+
+Resposta: Aplicação de questionários estruturados com perguntas fechadas, onde as respostas podem ser transformadas em números para análise estatística.
+
+**14 - Qual a diferença entre métodos quantitativos e qualitativos?**
+
+Resposta: Métodos quantitativos utilizam dados numéricos e estatísticos, enquanto métodos qualitativos trabalham com opiniões, percepções e interpretações.
+
+**15 - Para que servem os métodos quantitativos?**
+
+Resposta: Servem para testar hipóteses, medir variáveis e identificar relações entre dados, permitindo conclusões baseadas em evidências numéricas.
