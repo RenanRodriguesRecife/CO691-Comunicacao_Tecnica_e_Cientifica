@@ -1,6 +1,7 @@
 ## Perguntas sobre Pesquisa Quantitativa
 
 **1 - O que define uma variável como sendo do tipo quantitativa contínua?**
+
 Resposta: É uma variável que expressa uma medida e que pode assumir qualquer valor dentro de um determinado intervalo, permitindo o uso de números decimais (fracionados).
 
 Contexto: Diferente das variáveis discretas, que lidam apenas com números inteiros (contagens), as variáveis contínuas são fundamentais para representar grandezas físicas como peso, altura, temperatura ou tempo de execução de uma tarefa.
@@ -13,6 +14,7 @@ Resposta: Todos os membros da população-alvo são listados e o pesquisador sor
 Contexto: Este é o método mais básico de amostragem probabilística. Ele é crucial para evitar que o pesquisador escolha apenas as pessoas "mais fáceis" de encontrar, o que garante que a amostra seja uma representação justa do todo.
 
 **3 - Qual é o objetivo principal de um pesquisador ao utilizar um desenho de pesquisa descritivo?**
+
 Resposta: O objetivo é observar, registrar e descrever as características, comportamentos ou frequências de um fenômeno, sem tentar manipular variáveis ou testar causas.
 
 Contexto: Na pesquisa quantitativa, o desenho descritivo funciona como um "retrato" do momento. Ele é muito útil para mapear o cenário atual de um problema antes de se decidir por intervenções mais complexas ou caras.
@@ -30,4 +32,30 @@ Contexto: Para que os dados quantitativos sejam confiáveis, cada pergunta deve 
 **6 - Qual é a relação entre hipótese e análise estatística na pesquisa quantitativa?**
 
 Resposta: A hipótese orienta toda a pesquisa quantitativa, pois define o que será testado. A análise estatística é utilizada para verificar se há evidências suficientes nos dados para aceitar ou rejeitar essa hipótese, com base em critérios como nível de significância e testes estatísticos apropriados.
+
+**7 - Por que a validade e a confiabilidade são fundamentais em instrumentos de coleta de dados quantitativos?**
+
+Resposta: A validade garante que o instrumento realmente mede o que se propõe a medir, enquanto a confiabilidade assegura consistência nos resultados ao longo do tempo ou em diferentes aplicações. Sem esses dois critérios, os dados coletados podem levar a conclusões incorretas.
+
+**8 - Qual a diferença entre correlação e causalidade em pesquisas quantitativas?**
+
+Resposta: Correlação indica que duas variáveis estão relacionadas, ou seja, variam juntas. Já a causalidade implica que uma variável influencia diretamente a outra. Nem toda correlação representa uma relação de causa e efeito, sendo necessário controle de variáveis e métodos experimentais para estabelecer causalidade.
+
+**9 - Em que situações é mais adequado utilizar uma amostragem probabilística em vez de não probabilística?**
+
+Resposta: A amostragem probabilística é mais adequada quando o objetivo é generalizar os resultados para toda a população, pois todos os elementos têm chance conhecida de serem selecionados. Já a não probabilística é mais usada em estudos exploratórios ou quando há limitações de tempo e acesso aos dados.
+
+**10 - Quais são as principais vantagens e limitações dos métodos quantitativos?**
+
+Resposta: 
+
+Vantagens:
+  Resultados objetivos e mensuráveis
+  Facilidade de comparação entre dados
+  Possibilidade de generalização
+
+Limitações:
+  Pouca profundidade na compreensão de contextos
+  Dificuldade em captar percepções subjetivas
+  Dependência da qualidade dos instrumentos de coleta
 
